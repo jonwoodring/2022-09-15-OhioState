@@ -1,3 +1,7 @@
+Make sure to do a recursive clone, it now relies on the `sqlitenumpy`
+repository: i.e., `git clone --recursive`
+(<https://github.com/jonwoodring/sqlitenumpy>)
+
 ## slides/index.html content: Copyright (C) 2022, Jonathan Woodring
 
 ## slides/ framework: <https://revealjs.com/>
@@ -11,11 +15,12 @@ contributors
 
 isolated\_galaxy from yt project at <https://yt-project.org/>
 
-<https://yt-project.org/data/IsolatedGalaxy.tar.g>
+<https://yt-project.org/data/IsolatedGalaxy.tar.gz>
 
-## sqlitehelpers.py, SQLiteReader.py, tutorial.ipynb
+## sqlitehelpers are now at <https://github.com/jonwoodring/sqlitenumpy>
 
-sqlitehelpers.py: CC0 "No rights reserved" - feel free to use anywhere
+## SQLiteReader.py, tutorial.ipynb
+
 SQLite3Reader.py: CC0 "No rights reserved" - feel free to use anywhere
 tutorial.ipynb: CC0 "No rights reserved" - feel free to use anywhere
 

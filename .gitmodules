@@ -1,0 +1,3 @@
+[submodule "sqlitehelpers"]
+	path = sqlitehelpers
+	url = https://github.com/jonwoodring/sqlitenumpy.git
